@@ -1,0 +1,51 @@
+
+ .container{
+     
+ }
+ div{
+    background-color:#5D6D7E;
+    padding:1%;
+    width:60%; 
+    border-color:white;
+    border-radius: 5%;
+}
+h1{
+    text-align: center;
+    color:white;
+    font-family: Georgia, serif;
+    font-size: 25px;
+   letter-spacing: 2px;
+}
+label{
+    width:40%;
+    text-align: right;
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 1em;
+   letter-spacing: 2px;
+    
+
+}
+#ip{
+ border-radius: 25px;
+}
+#font{
+ color:white;
+}
+span{
+    color:white;
+    
+}
+input{
+    text-align: center;
+    display: inline-block;
+    
+}
+input.genero{
+    text-align: center;
+    display: inline-block;
+    width: 5%;
+}
+a{
+    background-color: white;
+}
